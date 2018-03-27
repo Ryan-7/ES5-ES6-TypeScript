@@ -3,7 +3,7 @@
 Wrapping my head around all of this syntactic sugar... 
 
 ```
-// ES5
+// Constructor Function
 
 function Person(name) {
   this.name = name;

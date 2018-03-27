@@ -2,7 +2,8 @@
 
 Wrapping my head around all of this syntactic sugar... 
 
-// JavaScript before 'Class' keyword
+```
+// JS without syntactic sugar
 
 function Person(name) {
   this.name = name;
@@ -50,3 +51,4 @@ class Person {
     console.log(`My name is ${this.name} and I'm from ${this.location}`)
   }
 }
+```

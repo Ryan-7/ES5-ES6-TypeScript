@@ -3,7 +3,7 @@
 Wrapping my head around all of this syntactic sugar... 
 
 ```
-// JS without syntactic sugar
+// ES5
 
 function Person(name) {
   this.name = name;
